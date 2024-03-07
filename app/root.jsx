@@ -1,5 +1,6 @@
 import { Meta, Links, Outlet } from '@remix-run/react'
 import style from './styles/index.css'
+import header from './components/header'
 
 export function meta() {
    return (
